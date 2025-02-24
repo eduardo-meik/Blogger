@@ -1,1 +1,4 @@
 
+{
+  "template": "Write a detailed blog post about the following article:\nTitle: {title}\nDescription: {description}\nContent: {content}\nEnsure the post is engaging and informative."
+}
